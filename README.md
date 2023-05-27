@@ -1,6 +1,5 @@
-# my-portfolio
-Website portofolioku ...
 # Deskripsi README.md - Proyek Website Portofolio
+# my-portfolio
 
 Ini adalah file README untuk proyek website portofolio. File ini berisi informasi tentang proyek, cara menginstal dan menjalankannya, serta panduan penggunaan.
 
