@@ -63,10 +63,10 @@ Kontribusi terhadap proyek ini sangat dihargai. Jika Anda ingin berkontribusi, s
 
 ## Lisensi
 
-Proyek ini dilisensikan di bawah [Nama Lisensi]. Silakan lihat file [LISENSI](link ke file lisensi) untuk informasi lebih lanjut.
+none for now
 
 ## Kontak
 
-Jika Anda memiliki pertanyaan atau masukan tentang proyek ini, silakan hubungi [nama Anda] melalui [email atau tautan media sosial].
+Jika Anda memiliki pertanyaan atau masukan tentang proyek ini, silakan hubungi [Wahyu Fajri] melalui [whybaik2@gmail.com].
 
 Terima kasih telah menggunakan website portofolio ini! Kami berharap Anda menikmati melihat karya-karya yang ditampilkan dan pengalaman Anda di situs ini.
