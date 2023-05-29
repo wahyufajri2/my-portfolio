@@ -19,7 +19,7 @@
 
 html {
     font-size: 62.5%;
-    overflow: hidden;
+    overflow-x: hidden;
 }
 
 body {
@@ -52,7 +52,7 @@ section {
     cursor: default;
 }
 
-.navbar {
+.navbar a {
     font-size: 1.7rem;
     color: var(--text-color);
     margin-left: 4rem;
