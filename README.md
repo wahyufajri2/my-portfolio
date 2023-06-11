@@ -62,7 +62,7 @@ Kontribusi terhadap proyek ini sangat dihargai. Jika Anda ingin berkontribusi, s
 
 ## Lisensi
 
-none for now
+Tidak ada untuk sekarang
 
 ## Kontak
 
