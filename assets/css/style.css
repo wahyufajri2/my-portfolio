@@ -440,6 +440,10 @@
                 .home-content h1 {
                     font-size: 5rem;
                 }
+                .about-me {
+                    font-size: 1.4rem;
+                    text-align: justify;
+                }
                 .home-img img {
                     width: 70vw;
                     margin-top: 4rem;
