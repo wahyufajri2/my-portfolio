@@ -361,12 +361,12 @@ p {
 }
 
 .footer {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
   flex-wrap: wrap;
-  padding: 2 rem 9%;
+  padding: 2rem 9%;
   background: var(--second-bg-color);
+  display: flex; /* Aktifkan flexbox */
+  justify-content: space-between; /* Distribusikan item dengan jarak di antara mereka */
+  align-items: center; /* Sejajarkan item secara vertikal di tengah */
 }
 
 .footer-text p {
