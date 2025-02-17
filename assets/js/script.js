@@ -56,3 +56,8 @@ const typed = new Typed('.multiple-text', {
     backDelay: 1000,
     loop: true
 });
+
+// Update footer year dynamically
+const yearElement = document.getElementById('year');
+const currentYear = new Date().getFullYear();
+yearElement.textContent = currentYear;
